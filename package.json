@@ -1,0 +1,9 @@
+{
+  "name": "wilt",
+  "version": "0.0.0",
+  "description": "What I Learned Today (wilt). This repository contains little bits of knowledge learned day by day.",
+  "dependencies": {
+    "lodash": "^3.0.1",
+    "react": "^0.12.2"
+  }
+}
