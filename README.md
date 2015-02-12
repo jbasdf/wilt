@@ -20,6 +20,9 @@ https://github.com/kriasoft/react-starter-kit
 
 # Resources
 
+## Setup
+- [React Hot Loader](http://gaearon.github.io/react-hot-loader/getstarted/)
+
 ## React
 - [Every React resource imaginable](https://github.com/enaqx/awesome-react)
 - [Material design for react.js](https://github.com/callemall/material-ui)
@@ -29,6 +32,7 @@ https://github.com/kriasoft/react-starter-kit
 - [Library of React.js components](http://callemall.github.io/material-ui/#/)
 - [Higher level library that combines all other css frameworks](http://semantic-ui.com/)
 - [Cool demo](http://polymer-topeka.appspot.com/) [source](https://github.com/Polymer/topeka)
+
 ### Open Source Admin Templates
 - [AdminLTE](https://github.com/almasaeed2010/AdminLTE)
 - [SB Admin 2](https://github.com/IronSummitMedia/startbootstrap-sb-admin-2)
