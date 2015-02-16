@@ -1,0 +1,10 @@
+{
+    "dev": {
+    "host": "localhost",
+    "user": "jbasdf",
+    "password" : "",
+    "database": "wilt",
+    "driver": "postgres",
+    "multipleStatements": true
+  }
+}

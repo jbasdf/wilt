@@ -1,0 +1,16 @@
+development:
+  adapter: postgresql
+  database: wilt
+  encoding: utf8
+  host: localhost
+  port: 5432
+  username: jbasdf
+  password: 
+test:
+  adapter: postgresql
+  database: wilt_test
+  encoding: utf8
+  host: localhost
+  port: 5432
+  username: jbasdf
+  password: 
